@@ -31,3 +31,16 @@ Useful links:
 - JupyterHub on Hadoop https://jcrist.github.io/jupyterhub-on-hadoop/index.html
 
 As you can see, the assignment is more open ended. Use this as a opportunity to explore, and don't be afraid of recording failed experiments in the notebook, if they are properly explained and described.
+
+
+Acknowledgments:
+
+We would like to thank our 'Advance Python' Professor, Mr. Juan Luis Cano, for his entertaining way of teaching classes and for helping us to understand what Python is all about. He was the one with this amazing idea of creating a new Python library and thanks to him, we now know more about how development works.
+
+
+Support:
+For questions about the project or any other remarks, please find below the email adress of the creator of this library:
+a.lombatti@student.ie.edu
+
+Author:
+Alberto Lombatti
