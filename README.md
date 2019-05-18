@@ -36,8 +36,7 @@ As you can see, the assignment is more open ended. Use this as a opportunity to 
 
 Acknowledgments:
 
-We would like to thank our 'Advance Python' Professor, Mr. Juan Luis Cano, for his entertaining way of teaching classes and for helping us to understand what Python is all about. He was the one with this amazing idea of creating a new Python library and thanks to him, we now know more about how development works.
-
+We would like to thank our 'Advance Python' Professor, Mr. Juan Luis Cano, for his entertaining way of teaching classes and for helping us to understand what Python is all about.
 
 
 Support:
